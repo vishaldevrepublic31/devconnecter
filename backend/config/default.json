@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://vishalparmar1553:vishalparmar1553@devconnecter.c2mh69s.mongodb.net/devconnecter",
+  "jwtSecret": "vishalparmar",
+  "githubClientId": "758e6e9795feaeaf5f25",
+  "githubSecret": "687fd927d396bca641f3fcf0bb486d67afa30ccb",
+  "githubToken": "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"
+}
